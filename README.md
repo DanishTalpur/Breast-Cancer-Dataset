@@ -4,7 +4,7 @@ This repository contains a Jupyter notebook (`main.ipynb`) exploring the Breast 
 
 ### Dataset Provenance
 - Source: Kaggle — replace with the exact competition/dataset link once available.
-- Link: [<ADD_KAGGLE_LINK_HERE>](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data)
+- Link: https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset/data
 - File: `breast-cancer.csv`
 
 ### Project Contents
